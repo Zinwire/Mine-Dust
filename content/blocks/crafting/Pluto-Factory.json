@@ -18,7 +18,7 @@
     "power": 11,
     "items": {
       "items": [
-        { "item": "Uran", "amount": 4}
+        { "item": "Uranium", "amount": 4}
       ]
     }
   },
@@ -40,4 +40,5 @@
         }
     ]
   }
+
 }
