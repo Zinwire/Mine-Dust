@@ -10,7 +10,7 @@
 	"loopSound": "shootSublimate",
 	"shootSound": "none",
 	"shootY": 18,
-	"outlineRadius": 0,
+	"outlineRadius": 0.2,
 	"consumes": {
 		"liquids": {
 			"liquids": [
@@ -43,4 +43,5 @@
   		"copper/1"
   	],
   	"category": "turret",
+
 }
