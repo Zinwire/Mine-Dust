@@ -1,5 +1,4 @@
 {
- "type": "material",
  "name": "Steel",
  "description": "Just a steel",
  "color": "#4D4949",
@@ -7,4 +6,5 @@
  "flammability": -0.5,
  "radioactivity": 0,
  "alwaysUnlocked": true
+
 }
