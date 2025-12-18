@@ -4,7 +4,7 @@
 	"description": "Uranium Drill",
 	"outputItem":
 	{
-	"item": "Uran",
+	"item": "Uranium",
 	"amount": 3
 	},
 	"craftTime": 1080,
@@ -25,4 +25,5 @@
 		{ "item": "thorium", "amount": 125},
 		{ "item": "plastanium", "amount": 95},
 	],
+
 }
