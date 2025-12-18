@@ -15,7 +15,7 @@
 	},
  	"rotateSpeed": 20,
  	"ammoTypes": {
- 		"Uran": {
+ 		"Uranium": {
  			"type": "ContinuousLaserBulletType",
  			"damage": 50,
  			"pierce": true,
@@ -37,4 +37,5 @@
   ],
   "category": "turret",
   
+
 }
