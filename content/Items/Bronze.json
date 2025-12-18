@@ -1,5 +1,4 @@
 {
- "type": "material",
  "name": "Bronze",
  "description": "So logic",
  "color": "E4C51B",
@@ -7,4 +6,5 @@
  "flammability": 0,
  "radioactivity": 0,
  "alwaysUnlocked": true
+
 }
