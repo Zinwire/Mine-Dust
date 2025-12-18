@@ -1,8 +1,8 @@
 {
-	"type": "material",
 	"name": "Uran",
 	"description": "Uran nahuy",
 	"color": "#73ff7c",
 	"alwaysUnlocked": true,
 	"radioactivity": 1,
+
 }
