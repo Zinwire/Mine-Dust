@@ -40,8 +40,12 @@
   	"liquidCapacity": 10,
   	"inaccuracy": 20,
   	"requirements": [
-  		"copper/1"
+  		"lead/110",
+		"graphite/55",
+		"Steel/40",
+		"titanium/50",
   	],
   	"category": "turret",
 
 }
+
