@@ -1,0 +1,28 @@
+{
+  "type": "GenericCrafter",
+  "name": "Bronze Forge",
+  "description": "Crafting Bronze",
+  "health": 450,
+  "size": 2,
+  "requirements": [
+  "copper/100"
+  "lead/60"
+  ],
+  "hasPower": true,
+  "hasItems": true,
+  "hasLiquids": true,
+  "craftTime": 60,
+  "consumes": {
+    "power": 2,
+    "liquids": {
+      "liquids": [
+        {"liquid": "Molten-Copper", "amount": 0.05},
+        {"liquid": "Molten-Lead", "amount": 0.05}
+      ]
+    }
+  },
+  "category": "crafting",
+  "itemCapacity": 10,
+  "liquidCapacity": 30,
+  "outputItem": "Bronze/1"
+}

@@ -1,0 +1,43 @@
+{
+  "type": "GenericCrafter",
+  "name": "Irradiator",
+  "description": "Irradiate uran to get plutonium",
+  "health": 500,
+  "size": 3,
+  "requirements": [
+    { "item": "lead", "amount": 230}
+    { "item": "silicon", "amount": 70}
+    { "item": "thorium", "amount": 120}
+    { "item": "plastanium", "amount": 35}
+  ],
+  "hasPower": true,
+  "hasItems": true,
+  "hasLiquids": false,
+  "craftTime": 720,
+  "consumes": {
+    "power": 11,
+    "items": {
+      "items": [
+        { "item": "Uran", "amount": 4}
+      ]
+    }
+  },
+  "category": "crafting",
+  "itemCapacity": 20,
+  "outputItem": { "item": "Plutonium", "amount": 1},
+  "drawer": {
+    "type": "DrawMulti",
+    "drawers": [
+      {"type": "DrawDefault"},
+      {
+        "type": "DrawFlame",
+        "flameColor": "#06ad03",
+        "flameRadius": 6,         
+        "flameRadiusIn": 2,
+        "flameRadiusScl": 4,  
+        "flameRadiusMag": 1.7,    
+        "flameRadiusInMag": 1.5,
+        }
+    ]
+  }
+}
