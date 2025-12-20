@@ -15,7 +15,7 @@
 			"bullet": {
 				"type": "BasicBulletType",
 				"damage": 75,
-				"sprite": "mda-SoundWave",
+				"sprite": "md-SoundWave",
 				"speed": 8,
 				"width": 24,
 				"height": 16,
@@ -40,7 +40,7 @@
 			"mirror": false,
 			"bullet": {
 				"type": "BasicBulletType",
-				"sprite": "mda-N",
+				"sprite": "md-N",
 				"speed": 10,
 				"damage": 850,
 				"knockback": 60,
@@ -59,7 +59,7 @@
 			"mirror": false,
 			"bullet": {
 				"type": "BasicBulletType",
-				"sprite": "mda-N",
+				"sprite": "md-N",
 				"speed": 6,
 				"lifetime": 25,
 				"knockback": -120,
@@ -72,4 +72,5 @@
 			}
 		}
 	]
+
 }
