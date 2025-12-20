@@ -24,5 +24,28 @@
   "category": "crafting",
   "itemCapacity": 10,
   "liquidCapacity": 30,
-  "outputItem": "Bronze/1"
+  "outputItem": "Bronze/1",
+  "drawer": {
+    "type": "DrawMulti",
+    "drawers": [
+      {"type": "DrawDefault"},
+      {
+        "type": "DrawGlowRegion",
+        "color": "#FFBF00",
+        "suffix": "-glow",
+        "glowIntensity": 0,
+        "alpha": 1,
+      },
+      {
+        "type": "DrawLiquidRegion",
+        "suffix": "-lead",
+        "drawLiquid": "Molten-Lead"
+      },
+      {
+        "type": "DrawLiquidRegion",
+        "suffix": "-copper",
+        "drawLiquid": "Molten-Copper"
+      }
+    ]
+  }
 }
