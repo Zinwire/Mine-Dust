@@ -19,5 +19,17 @@
   },
   "category": "production",
   "liquidCapacity": 50,
-  "outputLiquid": { "liquid": "Gas", "amount": 0.3}
+  "outputLiquid": { "liquid": "Gas", "amount": 0.3},
+
+  "drawer": {
+    "type": "DrawMulti",
+    "drawers": [
+      {"type": "DrawDefault"}
+      {
+        "type": "DrawRegion",
+        "suffix": "-turbine",
+        "rotateSpeed": 7
+      }
+    ]
+  }
 }
