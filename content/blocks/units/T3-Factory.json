@@ -12,20 +12,17 @@
 		"power": 10,
 		"items": {
 			"items": [
-				"lead/300"
 				"silicon/130",
 				"titanium/150",
-				"Bronze/110",
 				"Steel/90",
 				"Uranium/21"
 			]
 		}
 	},
 	"requirements": [
-		"lead/350",
 		"silicon/200",
 		"titanium/220"
-		"Bronze/175",
+		"Diamond/120"
 		"Steel/110",
 		"thorium/200"
 	],

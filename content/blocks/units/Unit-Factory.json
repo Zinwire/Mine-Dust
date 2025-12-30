@@ -11,9 +11,9 @@
 			"unit": "Sound-Shooter-T1",
 			"requirements": [
 				"silicon/20",
-				"copper/15"
+				"Bronze/10"
 			],
-			"time": "1200"
+			"time": "600"
 		}
 	],
 	"requirements": [

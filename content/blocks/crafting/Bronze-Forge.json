@@ -13,7 +13,7 @@
   "hasLiquids": true,
   "craftTime": 60,
   "consumes": {
-    "power": 2,
+    "power": 1.1,
     "liquids": {
       "liquids": [
         {"liquid": "Molten-Copper", "amount": 0.05},

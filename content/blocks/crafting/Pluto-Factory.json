@@ -1,14 +1,16 @@
 {
   "type": "GenericCrafter",
   "name": "Irradiator",
-  "description": "Irradiate uran to get plutonium",
+  "description": "Irradiate uranium to get plutonium",
   "health": 500,
   "size": 3,
   "requirements": [
-    { "item": "lead", "amount": 230}
-    { "item": "silicon", "amount": 70}
-    { "item": "thorium", "amount": 120}
-    { "item": "plastanium", "amount": 35}
+    "lead/230"
+    "silicon/100"
+    "Diamond/70"
+    "thorium/150"
+    "plastanium/50"
+    "surge-alloy/25"
   ],
   "hasPower": true,
   "hasItems": true,

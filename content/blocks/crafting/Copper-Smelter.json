@@ -15,7 +15,7 @@
   "hasLiquids": true,
   "craftTime": 180,
   "consumes": {
-    "power": 7,
+    "power": 1,
     "items": {
       "items": [
         { "item": "copper", "amount": 1}

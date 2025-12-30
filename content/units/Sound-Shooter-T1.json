@@ -10,7 +10,7 @@
 	"weapons": [
 		{
 			"name": "Soundshooter",
-			"x": 7,
+			"x": 6,
 			"mirror": true,
 			"reload": 30,
 			"shootSound": "SoundWaveShoot",

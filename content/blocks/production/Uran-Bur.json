@@ -1,13 +1,13 @@
 {
 	"type": "GenericCrafter",
-	"name": "UrDr",
-	"description": "Uranium Drill",
+	"name": "Uranium Drill",
+	"description": "Mining uranium from the ground",
 	"outputItem":
 	{
 	"item": "Uranium",
 	"amount": 3
 	},
-	"craftTime": 1080,
+	"craftTime": 600,
 	"size": 3,
 	"health": 1200,
 	"itemCapacity": 30,
@@ -15,11 +15,11 @@
 	"hasItems": true,
 	"consumes":
 	{
-	"power": 20
+	"power": 8
 	},
 	"category": "production",
 	"requirements": [
-		{ "item": "copper", "amount": 550},
+		{ "item": "Steel", "amount": 120}
 		{ "item": "lead", "amount": 190},
 		{ "item": "silicon", "amount": 255},
 		{ "item": "thorium", "amount": 125},

@@ -12,10 +12,8 @@
 		"power": 25,
 		"items": {
 			"items": [
-				"lead/480"
 				"silicon/210",
-				"titanium/300",
-				"Bronze/300",
+				"Diamond/300",
 				"Steel/190",
 				"Plutonium/30"
 			]
@@ -27,10 +25,8 @@
 		}
 	},
 	"requirements": [
-		"lead/500",
 		"silicon/359",
 		"titanium/500"
-		"Bronze/250",
 		"Steel/190",
 		"thorium/500",
 		"phase-fabric/120"
