@@ -1,2 +1,2 @@
 
-$\color{#ff5733}{\text{hhjfd}}$
+$\color{red}{\text{hhjfd}}$
