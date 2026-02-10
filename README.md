@@ -1,3 +1,3 @@
-1. V
-2. B
-3. G
+1. <Red>R
+2. <Blue>B
+3. <Green>G
